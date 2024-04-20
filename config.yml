@@ -1,6 +1,6 @@
 backend:
   name: test-repo
-
+repo:myln/CMS
 media_folder: media_folder
 
 collections:
